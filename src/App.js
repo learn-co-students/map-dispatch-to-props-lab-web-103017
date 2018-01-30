@@ -13,4 +13,11 @@ export class App extends Component {
   }
 };
 
+// const mapStateToProps = (state) => {
+//   return {
+//     restaurants: state.restaurants
+//   };
+// };
+
+
 export default App;
